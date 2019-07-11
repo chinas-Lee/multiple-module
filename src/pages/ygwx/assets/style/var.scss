@@ -1,0 +1,88 @@
+// font-size
+$xlg-size: 20px;
+$lg-size: 18px;
+$md-size: 16px;
+$sm-size: 14px;
+$xs-size: 12px;
+
+// color
+$main-color:#006e60;
+$main-hover-color:#0074cc;
+$select-color:#88ae12;
+$main-default-color:#0052cc;
+$success-color:#8aab27;
+$error-color:#ca5200;
+$success-hover-color:#67E33A;
+$warning-color:#E6A23C;
+$warning-hover-color:#E6C43C;
+$danger-color:#d9596b;
+$info-color:#909399;
+$medium-color:#ffab00;
+$line-color:#20a9e4;
+$dropdown-hover-color:#f4f5f7;
+$disabled-color: #969799;
+
+// text-color
+$white-text-color: #fff;
+$title-text-color:#54657e;
+$main-text-color:#717067;
+$default-text-color:#606266;
+$secondary-text-color:#999;
+$label-text-color:#576781;
+$icon-color:#c1c7d0;
+$placeholder-text-color:#C0C4CC;
+$main-default-text-color:#00a2e6;
+$main-default-text-hover-color:#15a2ba;
+$disabled-text-color:#80a8e5;
+$input-background-color:#f2f2f2;
+
+
+// border-color
+$first-border-color:#DCDFE6;
+$secondary-border-color:#E4E7ED;
+$third-border-color:#EBEEF5;
+$four-border-color:#F2F6FC;
+
+// button-color
+$main-btn-color:#007fbc;
+$login-btn-color:#00a2e6;
+
+// linear-color
+$bg-linear-right-color:#157fb7;
+
+// distance
+$one-length:1px;
+$two-length:2px;
+$three-length:3px;
+$five-length:5px;
+$ten-length:10px;
+$fifteen-length:15px;
+$twenty-length:20px;
+$thirty-length:30px;
+$forty-length:40px;
+$fifty-length:50px;
+
+// percentage
+$one-percentage:1%;
+$two-percentage:2%;
+$three-percentage:3%;
+$five-percentage:5%;
+$ten-percentage:10%;
+$twenty-percentage:15%;
+$twenty-percentage:20%;
+$twenty-five-percentage:25%;
+$twenty-percentage:30%;
+$thirty-three-percentage:33.3333%;
+$forty-percentage:40%;
+$fifty-percentage:50%;
+$hundred-percentage:100%;
+
+// position
+$relative-position:relative;
+$absolute-position:absolute;
+$fixed-position:fixed;
+
+// weight
+$bold-weight:600;
+$thick-weight:400;
+$normal-weight:300;
