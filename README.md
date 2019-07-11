@@ -1,5 +1,5 @@
 # multiple-module
-vue多页面应用
+Vue-cli2.x + Vuex + Element + ES6 + ES7 + Sass 
 ## Project setup
 ```
 npm install
