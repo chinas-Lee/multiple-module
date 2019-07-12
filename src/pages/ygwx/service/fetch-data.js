@@ -1,4 +1,4 @@
-import Mui from '../../../modules/lib/mui.min'
+import Mui from '../../../../static/lib/mui.min'
 import {Toast} from 'vant'
 import baseURL from './ip-config'
 import { _getSign } from '../assets/js/auth-methods'
